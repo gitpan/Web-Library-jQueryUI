@@ -1,8 +1,8 @@
 package Web::Library::jQueryUI;
 use Moose;
 with qw(Web::Library::Provider Web::Library::SimpleAssets);
-our $VERSION = '0.02';
-sub latest_version { '1.10.2' }
+our $VERSION = '0.03';
+sub latest_version { '1.10.3' }
 
 sub version_map {
 
@@ -42,7 +42,8 @@ methods for an explanation of the concept.
 
 =over 4
 
-=item Version 1.10.2 (the default)
+=item Version 1.10.2
+=item Version 1.10.3 (the default)
 
       css/images/animated-overlay.gif
       css/images/ui-bg_flat_0_aaaaaa_40x100.png

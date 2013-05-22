@@ -1,5 +1,9 @@
 Revision history for Perl extension Web-Library-jQueryUI
 
+0.03 Wed May 22 14:12:04 2013 CEST
+    [New Features]
+        - Includes jQuery UI 1.10.3
+
 0.02 Fri May 17 13:12:23 2013 CEST
     [Improvements]
         - t/basic.t now uses Web::Library::Test
