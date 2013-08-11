@@ -1,5 +1,9 @@
 Revision history for Perl extension Web-Library-jQueryUI
 
+0.04  2013-08-11 21:23:39 CEST
+    [Improvements]
+        - Converted to Dist::Milla
+
 0.03 Wed May 22 14:12:04 2013 CEST
     [New Features]
         - Includes jQuery UI 1.10.3

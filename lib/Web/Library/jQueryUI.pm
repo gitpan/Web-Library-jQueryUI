@@ -1,7 +1,7 @@
 package Web::Library::jQueryUI;
 use Moose;
 with qw(Web::Library::Provider Web::Library::SimpleAssets);
-our $VERSION = '0.03';
+our $VERSION = '0.04';
 sub latest_version { '1.10.3' }
 
 sub version_map {
